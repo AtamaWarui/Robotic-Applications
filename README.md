@@ -1,5 +1,5 @@
 # Robotic-Related-Applications
-Gathering all robotic applications done so far in ROS, MORSE simulator and Blender 3D simulator
+Gathering all robotic applications created in ROS, MORSE simulator and Blender 3D simulator
 
 Video representation -1
 
